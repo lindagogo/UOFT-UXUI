@@ -1,4 +1,4 @@
-# UOFT-UXUI
+# week 18.3 transitions activities
 
 This read me contains ASCII ART   (⌐□_□).   
 
